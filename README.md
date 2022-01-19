@@ -2,4 +2,4 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: mail me
+- 📫 How to reach me: mail me.
